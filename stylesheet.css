@@ -1,0 +1,53 @@
+
+.sidebar {
+	display: block;
+	float: left;
+	width:  300px;
+	margin: 0;
+	padding: 5px;
+	position: absolute;
+	min-height: 1000px;
+	background-color: #DCDDDE
+}
+
+
+body .main_body {
+
+}
+
+.main_body article {
+	margin-left: 305px;
+	padding-left: 20px;
+}
+
+footer {
+	margin-left: 305px;
+	padding-left: 20px;
+	text-align: center;
+	font-size: 10px;
+
+}
+
+.image_header {
+
+	margin-left: 305px;
+	padding: 20px;
+}
+
+.article_img {
+
+	float: left;
+	padding: 5px;
+}
+
+.sidebar h2 {
+	border-bottom: 1px solid gray;
+}
+
+.sidebar ul {
+	padding-bottom: 5px;
+}
+
+.sidebar li {
+	padding-bottom: 3px;
+}
